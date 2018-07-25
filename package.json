@@ -4,6 +4,10 @@
   "description": "Neomar Project",
   "author": "badry <badry.abderrahmane@gmail.com>",
   "private": true,
+  "engines": {
+    "yarn": "1.7.0",
+    "nuxt": "1.4.1"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
